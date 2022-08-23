@@ -1,5 +1,5 @@
 <div align="center">
-<img width="80%" height="60%" alt="Developer Illustration" src="https://github.com/raphagoo/raphagoo/blob/main/gifs/zero.gif"/>
+<img width="100%" height="60%" alt="Developer Illustration" src="https://github.com/raphagoo/raphagoo/blob/main/gifs/zero.gif"/>
 <br />
 <br />
 <h2> Hi There, Welcome to my Github profile! <img src="https://github.com/abdoachhoubi/abdoachhoubi/blob/main/gifs/Hi.gif" width="30"></h2>
