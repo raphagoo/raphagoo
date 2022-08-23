@@ -41,7 +41,6 @@ Ask me anything or <a href="mailto:raphael.ago@hotmail.fr"><b>send me an email</
 
 <br />
 <br />
-<a margin="10" href="https://mui.com" target="_blank"><img margin="10px" height="40" src="https://github.com/abdoachhoubi/abdoachhoubi/blob/main/svgs/materialui.svg" alt="material ui"></a>
 <a margin="10" href="https://getbootstrap.com" target="_blank"><img margin="10px" height="40" src="https://github.com/abdoachhoubi/abdoachhoubi/blob/main/svgs/bootstrap.svg" alt="bootstrap"></a>
 <a margin="10" href="https://next.vuetifyjs.com/en/" target="_blank"><img margin="10px" height="40" src="https://github.com/raphagoo/raphagoo/blob/main/svgs/vuetify.svg" alt="vuetify"></a>
 <br />
@@ -49,6 +48,7 @@ Ask me anything or <a href="mailto:raphael.ago@hotmail.fr"><b>send me an email</
 <a margin="10" href="https://vuejs.org/" target="_blank"><img margin="10px" height="40" src="https://github.com/raphagoo/raphagoo/blob/main/svgs/vue.svg" alt="vue"></a>
 <a margin="10" href="https://symfony.com/" target="_blank"><img margin="10px" height="40" src="https://github.com/raphagoo/raphagoo/blob/main/svgs/symfony.svg" alt="symfony"></a>
 <a margin="10" href="https://angular.io/" target="_blank"><img margin="10px" height="40" src="https://github.com/raphagoo/raphagoo/blob/main/svgs/Angular.svg" alt="angular"></a>
+  <a margin="10" href="https://ionicframework.com/" target="_blank"><img margin="10px" height="40" src="https://github.com/raphagoo/raphagoo/blob/main/svgs/ionic.svg" alt="ionic"></a>
 <br />
 <br />
 <a margin="10" href="https://nodejs.org" target="_blank"><img margin="10px" height="40" src="https://github.com/abdoachhoubi/abdoachhoubi/blob/main/svgs/nodejs.svg" alt="nodejs"></a>
