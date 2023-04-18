@@ -36,14 +36,14 @@ Ask me anything or <a href="mailto:raphael.ago@hotmail.fr"><b>send me an email</
 ## Tech Stack 🔧
 
 <br />
-<a margin="10" href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><img margin="10px" height="40" src="https://github.com/abdoachhoubi/abdoachhoubi/blob/main/svgs/html.svg" alt="html"></a>
-<a margin="10" href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"><img margin="10px" height="40" src="https://github.com/abdoachhoubi/abdoachhoubi/blob/main/svgs/css.svg" alt="css"></a>
-<a margin="10" href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img margin="10px" height="40" src="https://github.com/abdoachhoubi/abdoachhoubi/blob/main/svgs/javascript.svg" alt="javascript"></a>
+<a margin="10" href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><img margin="10px" height="40" src="https://cdn.worldvectorlogo.com/logos/html-1.svg" alt="html"></a>
+<a margin="10" href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"><img margin="10px" height="40" src="https://cdn.worldvectorlogo.com/logos/css-3.svg" alt="css"></a>
+<a margin="10" href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img margin="10px" height="40" src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg" alt="javascript"></a>
 <a margin="10" href="https://www.php.net/" target="_blank"><img margin="10px" height="40" src="https://github.com/raphagoo/raphagoo/blob/main/svgs/PHP.svg" alt="php"></a>
 
 <br />
 <br />
-<a margin="10" href="https://getbootstrap.com" target="_blank"><img margin="10px" height="40" src="https://github.com/abdoachhoubi/abdoachhoubi/blob/main/svgs/bootstrap.svg" alt="bootstrap"></a>
+<a margin="10" href="https://getbootstrap.com" target="_blank"><img margin="10px" height="40" src="https://cdn.worldvectorlogo.com/logos/bootstrap-4.svg" alt="bootstrap"></a>
 <a margin="10" href="https://next.vuetifyjs.com/en/" target="_blank"><img margin="10px" height="40" src="https://github.com/raphagoo/raphagoo/blob/main/svgs/vuetify.svg" alt="vuetify"></a>
 <br />
 <br />
@@ -53,8 +53,8 @@ Ask me anything or <a href="mailto:raphael.ago@hotmail.fr"><b>send me an email</
   <a margin="10" href="https://ionicframework.com/" target="_blank"><img margin="10px" height="40" src="https://github.com/raphagoo/raphagoo/blob/main/svgs/ionic.svg" alt="ionic"></a>
 <br />
 <br />
-<a margin="10" href="https://nodejs.org" target="_blank"><img margin="10px" height="40" src="https://github.com/abdoachhoubi/abdoachhoubi/blob/main/svgs/nodejs.svg" alt="nodejs"></a>
-<a margin="10" href="https://mongodb.com" target="_blank"><img margin="10px" height="40" src="https://github.com/abdoachhoubi/abdoachhoubi/blob/main/svgs/mongodb.svg" alt="mongodb"></a>
+<a margin="10" href="https://nodejs.org" target="_blank"><img margin="10px" height="40" src="https://cdn.worldvectorlogo.com/logos/nodejs-1.svg" alt="nodejs"></a>
+<a margin="10" href="https://mongodb.com" target="_blank"><img margin="10px" height="40" src="https://cdn.worldvectorlogo.com/logos/mongodb-icon-1.svg" alt="mongodb"></a>
 <a margin="10" href="https://www.mysql.com/fr/" target="_blank"><img margin="10px" height="40" src="https://github.com/raphagoo/raphagoo/blob/main/svgs/mysql.svg" alt="mysql"></a>
 <br />
 <br /> 
