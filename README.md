@@ -9,7 +9,7 @@
 <br />
 <br />
 
-I'm a Full Stack Developer with 2+ years of hands-on experience designing, developing and implementing applications and solutions using a range of technologies and programming languages.
+I'm a Full Stack Developer with 3+ years of hands-on experience designing, developing and implementing applications and solutions using a range of technologies and programming languages.
 <br />
 
 I'm currently based in **[Aix-en-Provence, France.](https://www.google.com/maps/place/Aix+en+Provence)**
