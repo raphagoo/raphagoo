@@ -14,7 +14,7 @@ I'm a Full Stack Developer with 3+ years of hands-on experience designing, devel
 
 I'm currently based in **[Aix-en-Provence, France.](https://www.google.com/maps/place/Aix+en+Provence)**
 
-Looking for oppotunities abroad, especially in **[Singapore](https://www.google.com/maps/place/Singapore)** 🚀
+Looking for oppotunities abroad, especially in Singapore or Bangkok 🚀
 
 Please feel free to clone/fork my starters, raise issues and submit PRs if you think something could be better.<br />
 Ask me anything or <a href="mailto:raphael.ago@hotmail.fr"><b>send me an email</b></a>.
